@@ -28,6 +28,12 @@ the shadows of espionage 🥸.
 
 Link of the sample app: [GeoQuest](https://play.google.com/store/apps/details?id=org.amfoss.geoquest)
 
+### Sample App
+
+https://github.com/Aaryanajith/GeoQuest/assets/116453081/4a6961e4-07de-4fcb-8b69-d2f4ad0900ff
+
+**Location access should be always allowed for the app to function properly.** 
+
 The app should have all the functionalities mentioned above hovever the UI of the app can be your choice. 
 
 Relevant resources are provided below!
