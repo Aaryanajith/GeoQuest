@@ -1,8 +1,8 @@
 # GeoQuest
 
 In the covert world of high-stakes espionage 🕵️, you, codename
-CartoGrapher, are recruited into a secret organization 👀 with a mission
-to build an unique map application.
+CartoGrapher is recruited into a secret organization 👀 with a mission
+to build a unique map application.
 
 Armed with Google\'s Flutter framework for Android and iOS 👾 🧑‍💻 , and
 harnessing the power of OpenStreetMap 🗺️, a formidable open source tool
@@ -23,10 +23,12 @@ for the organization\'s agents as they embark on top-secret assignments
 the shadows of espionage 🥸.
 
 ## The app should have the following features:
-* Drop pin on the map.
-* Display the distance and the time it takes to reach the pinned location from current location.
+* Drop a pin on the map.
+* Display the distance and the time it takes to reach the pinned location from the current location.
 
-Link of the sample app: [GeoQuest](https://play.google.com/store/apps/details?id=org.amfoss.geoquest)
+Link of the sample app in Google Playstore: [GeoQuest](https://play.google.com/store/apps/details?id=org.amfoss.geoquest) 
+
+__iOS users please refer to the video below!!__ 
 
 ### Sample App
 
@@ -34,7 +36,7 @@ https://github.com/Aaryanajith/GeoQuest/assets/116453081/4a6961e4-07de-4fcb-8b69
 
 __Location access should be always allowed for the app to function properly!!__ 
 
-The app should have all the functionalities mentioned above hovever the UI of the app can be your choice. 
+The app should have all the functionalities mentioned above however the UI of the app can be your choice. 
 
 Relevant resources are provided below!
 
