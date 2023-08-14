@@ -47,3 +47,4 @@ Relevant resources are provided below!
 - [Flutter OSM Hooks](https://pub.dev/packages/osm_flutter_hooks)
 - [Pointer Interceptor](https://pub.dev/packages/pointer_interceptor)
 - [Provider Docs](https://pub.dev/packages/provider)
+- [Flutter Spinkit](https://pub.dev/packages/flutter_spinkit)
