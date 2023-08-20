@@ -6,7 +6,7 @@ to build a unique map application.
 
 Armed with Google\'s Flutter framework for Android and iOS, and
 harnessing the power of OpenStreetMap, a formidable open-source tool
-at your disposal 🦾, your mission, should you choose to
+at your disposal, your mission, should you choose to
 accept it, is to create an ingenious app that
 allows agents to drop pins 📍 on critical locations they intend to
 infiltrate, while seamlessly displaying the distance and time required
