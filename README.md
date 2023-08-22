@@ -1,25 +1,25 @@
 # GeoQuest
 
-In the covert world of high-stakes espionage 🕵️, you, codename
-CartoGrapher is recruited into a secret organization 👀 with a mission
+In the covert world of high-stakes espionage, you, codename
+CartoGrapher is recruited into a secret organization with a mission
 to build a unique map application.
 
 Armed with Google\'s Flutter framework for Android and iOS, and
 harnessing the power of OpenStreetMap, a formidable open-source tool
 at your disposal, your mission, should you choose to
 accept it, is to create an ingenious app that
-allows agents to drop pins 📍 on critical locations they intend to
+allows agents to drop pins on critical locations they intend to
 infiltrate, while seamlessly displaying the distance and time required
 for each covert operation.
 
 Flutter is like a digital acrobat, performing gravity-defying stunts
-with its smooth animations and transitions that make your UI come alive
-! With Flutter, it\'s a carnival of widgets, where every carnival
+with its smooth animations and transitions that make your UI come alive!
+With Flutter, it\'s a carnival of widgets, where every carnival
 booth offers a unique and interactive experience.
 
 With your coding prowess, this covert travel app will be a vital tool
 for the organization\'s agents as they embark on top-secret assignments
-across the world 🌏, navigating with precision and speed through
+across the world, navigating with precision and speed through
 the shadows of espionage.
 
 ## The app should have the following features:
@@ -40,7 +40,7 @@ The app should have all the functionalities mentioned above however the UI of th
 
 Relevant resources are provided below!
 
-## 📃 Reference
+## Reference
 - [Flutter Installation](https://docs.flutter.dev/get-started/install)
 - [Flutter Docs](https://docs.flutter.dev/)
 - [Open Street Maps Docs](https://pub.dev/packages/flutter_osm_plugin)
